@@ -8,6 +8,10 @@ The GitHub actions script to deploy the Storybook to QA requires some configurat
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
 
+# Code Coverage 
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-vmreed1/branch/main/graph/badge.svg?token=RG4fOImmIp)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-vmreed1)
+
 # Setup before running application
 
 Before running the application for the first time,
